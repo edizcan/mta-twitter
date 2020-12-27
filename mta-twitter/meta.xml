@@ -1,0 +1,7 @@
+<meta>
+    <script src="Interface.lua" type="client"/>
+    <script src="server.lua" type="server"/>
+
+    <file src="images/interface.png"/>
+    <file src="images/tinterface.png"/>
+</meta>
